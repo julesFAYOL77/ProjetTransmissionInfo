@@ -2,8 +2,8 @@
 #include <WiFiClientSecure.h>
 #include <time.h>
 
-const char* ssid = "Freebox-16D4DD";
-const char* password = "inperabit&-vicinalem-flabrali6-disruperit";
+const char* ssid = "DESKTOP-AD099U7 9292";
+const char* password = "12345678";
 
 const char* host = "louetonfilm.com";
 const int httpsPort = 443; // Port 443 pour HTTPS
